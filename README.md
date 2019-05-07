@@ -18,3 +18,6 @@ If not run the following commands
 
 ```pip install requirements.txt```
 
+## Acknowledgement
+
+The dataset analyzed in this project is from AirBnB and provided by Kaggle at [this link](https://www.kaggle.com/airbnb/seattle/data)
