@@ -1,6 +1,6 @@
 # Udacity DSND Project 4: Analyse AirBnB Dataset
 
-In this project, a dataset from AirBnB about the listings in Seattle will be analyzed. A notebook for analysis follows CRISP-DM methodology.
+In this project, a dataset from AirBnB about the listings in Seattle will be analyzed. A notebook for analysis follows CRISP-DM methodology. 
 This method consists of 6 steps
 
 1. Business Understanding
@@ -10,6 +10,7 @@ This method consists of 6 steps
 5. Evaluation
 6. Deployment
 
+Follow [this link](https://medium.com/@duc0510/making-sense-of-airbnb-data-insight-from-seattle-listing-dataset-e02e79476162) to a Medium article associating with the the analysis in this repo
 
 ## Installation
 
