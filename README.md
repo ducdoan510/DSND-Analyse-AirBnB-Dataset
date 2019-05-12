@@ -10,6 +10,8 @@ This method consists of 6 steps
 5. Evaluation
 6. Deployment
 
+Download the dataset from the link in **Acknowledgement** section and put the 3 csv files under _seattle_ folder on project root directory.
+
 Follow [this link](https://medium.com/@duc0510/making-sense-of-airbnb-data-insight-from-seattle-listing-dataset-e02e79476162) to a Medium article associating with the the analysis in this repo
 
 ## Installation
