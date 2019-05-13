@@ -14,12 +14,28 @@ Download the dataset from the link in **Acknowledgement** section and put the 3 
 
 Follow [this link](https://medium.com/@duc0510/making-sense-of-airbnb-data-insight-from-seattle-listing-dataset-e02e79476162) to a Medium article associating with the the analysis in this repo
 
+## Motivation
+AirBnB is a leading platform for short term room renting service. This project analyzes different attributes provided in Seattle listing dataset and aims to answer the following three questions:
+1. What is the best time to visit Seattle based on room availability on AirBnB platform?
+2. What is the price range for renting room in Seattle on AirBnB?
+3. How can we use the data to predict price for a certain listing?
+
+
 ## Installation
 
 It is recommended to install Anaconda so that all needed packages are available
 If not run the following commands
 
 ```pip install requirements.txt```
+
+## Findings and Conclusion
+The questions as in **Motivation** section can be answered as below:
+1. What is the best time to visit Seattle based on room availability on AirBnB platform?
+Based on room availability and the number of comments that users leave on the platform, July-September is a suitable time to visit Seattle
+2. What is the price range for renting room in Seattle on AirBnB?
+Most AirBnB listings fall under \$200. Price can go up to \$1000
+3. How can we use the data to predict price for a certain listing?
+Different machine learning algorithms are used to predict the listing price. Random Forest Regression seems to perform best based on R2 score
 
 ## Acknowledgement
 
